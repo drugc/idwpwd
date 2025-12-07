@@ -1,0 +1,4 @@
+{
+  "name": "Discord Lanyard Status",
+  "description": "A React application to view real-time Discord status and Spotify activity using the Lanyard API."
+}
